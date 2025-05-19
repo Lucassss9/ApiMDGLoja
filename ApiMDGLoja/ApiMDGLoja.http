@@ -1,0 +1,6 @@
+@ApiMDGLoja_HostAddress = http://localhost:5229
+
+GET {{ApiMDGLoja_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

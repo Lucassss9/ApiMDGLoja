@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\controllers\\entregacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\controllers\\entregacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\controllers\\itenspedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\controllers\\itenspedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\controllers\\produtocontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\controllers\\produtocontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\data\\mdgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\data\\mdgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\models\\itenspedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\models\\itenspedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\models\\entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\models\\entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|c:\\users\\lucas\\source\\repos\\apimdgloja\\apimdgloja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A0436B-B423-4013-AFE9-7419D5FA6523}|ApiMDGLoja\\ApiMDGLoja.csproj|solutionrelative:apimdgloja\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntregaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\EntregaController.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Controllers\\EntregaController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\EntregaController.cs*",
+              "RelativeToolTip": "ApiMDGLoja\\Controllers\\EntregaController.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:00:36.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItensPedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\ItensPedidoController.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Controllers\\ItensPedidoController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\ItensPedidoController.cs*",
+              "RelativeToolTip": "ApiMDGLoja\\Controllers\\ItensPedidoController.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:00:23.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\EnderecoController.cs*",
+              "RelativeToolTip": "ApiMDGLoja\\Controllers\\EnderecoController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:00:01.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:59:47.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoControler.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\ProdutoControler.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Controllers\\ProdutoControler.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\ProdutoControler.cs*",
+              "RelativeToolTip": "ApiMDGLoja\\Controllers\\ProdutoControler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:59:27.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Controllers\\ClienteController.cs*",
+              "RelativeToolTip": "ApiMDGLoja\\Controllers\\ClienteController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:53:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Program.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Program.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:50:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Produto.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:45:46.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Pedido.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:45:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MDGContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Data\\MDGContext.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Data\\MDGContext.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Data\\MDGContext.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Data\\MDGContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:45:44.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItensPedido.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\ItensPedido.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Models\\ItensPedido.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\ItensPedido.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Models\\ItensPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:45:44.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entrega.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Entrega.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Models\\Entrega.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Entrega.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Models\\Entrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:45:43.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Endereco.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:45:42.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ApiMDGLoja\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ApiMDGLoja\\ApiMDGLoja\\Models\\Cliente.cs",
+              "RelativeToolTip": "ApiMDGLoja\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T20:45:30.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
