@@ -81,6 +81,5 @@ Use o Swagger para testar todos os endpoints diretamente pelo navegador. Você p
 
 Se tiver dúvidas ou quiser sugerir algo, abra uma issue no repositório ou me envie uma mensagem.
 
-Desenvolvido por Lucas Gabriel dos Santos  
-Curso de Análise e Desenvolvimento de Sistemas  
+Desenvolvido por Lucas Gabriel
 2025
